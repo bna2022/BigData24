@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type"
+	content="text/html; charset=utf-8"/>
+	<title>
+	Meine Backwerkstadt
+	</title>
+</head>
+<body style="background-color:RosyBrown;color:LightPink" >
+		<p><h1> Herzlich Wilkommen auf meiner Backwerkstadt</h1>
+		<b>Schön das ihr da seit.</b>
+		<br> Hier erfahrt ihr leckere Rezete
+		
+		<br>
+		<br>
+		<br>
+		Hier schon mal ein richtig einfaches Rezepte
+		<p style="color:beige">
+                  <b><i>Pfankuchen</b></i>
+                  
+		<img src="https://img.chefkoch-cdn.de/rezepte/1208161226570428/bilder/1573862/crop-960x540/der-perfekte-pfannkuchen-gelingt-einfach-immer.jpg"/>
+		<br>Diese bestehen aus<br>
+		<br>
+		-1 Ei<br>
+		-200 gram Mehl<br>
+		-100 ml Milch<br>
+		-1 prise Salz und Zucker<br>
+		-50 ml Öl<br>
+		<br>
+		<br>
+		<b> Schritt 1: </b>
+		Wir geben alle Zutaten in eine Schüssel, und verühren alles,zu einer glatten Masse.
+         <br>
+          <br>
+         <b> Schritt 2:</b>
+          Nun erhitzen wir unsere bereitgestellte Pfanne und geben Öl hinzu.
+          <br>
+          <br>
+          <b> Schritt3: Als Letzten Schritt geben wir den Teig in die Pfanne, und braten ihn.</b>
+          <br>
+          <br>
+           <b><i>Fertig!!</b></i>
+          <br>
+          <br>
+           <b><i>Tipp: Geniese den Pfankuchen warm.
+             <br>
+             <br>
+             Am besten bestreuen sie sie noch mit Puderzucker.</b></i>
+		</p>
+</body>	
+</html>
